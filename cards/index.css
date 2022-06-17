@@ -43,6 +43,8 @@ body {
 .text {
     margin: 30px;
     color: white;
+    font-family: 'Big Shoulders Display';
+    font-weight: 400;
 }
 
 .button {
